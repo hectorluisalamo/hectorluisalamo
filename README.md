@@ -5,8 +5,6 @@ Builder and engineer by obsession.
 
 I think at the intersection of **language, software, and creativity**. I build because tools shape who gets access—and too many people are still left out.
 
----
-
 ## current deep dives
 
 - 📱 mobile apps, especially consumer-facing products that actually ship  
@@ -16,8 +14,6 @@ I think at the intersection of **language, software, and creativity**. I build b
 - 🧰 AI tools that help people *do things*, not just talk about them  
 
 Right now I’m shipping a **mobile fitness app for Latinas** who want to get strong and healthy without giving up the foods they love.
-
----
 
 ## beliefs
 
@@ -31,8 +27,6 @@ I reject gatekeeping, needless complexity, and the idea that technology has to f
 
 I believe in the **beauty and boundless potential of humanity**.
 
----
-
 ## a little background
 
 I spent years as a managing editor and contributor at small, independent Latino media companies. That work shaped how I think: clarity matters, language matters, and systems always reflect values.
@@ -42,16 +36,12 @@ The throughline from writing to engineering is simple:
 
 My mom is a Honduran immigrant, my dad's Puerto Rican, but I identify most with the city that taught me how culture, grit, and creativity coexist — Chicago.
 
----
-
 ## interests (outside the IDE)
 
 - history, culture, travel  
 - books (Bukowski, Hunter S. Thompson, Kerouac)  
 - language in all its messy, powerful forms  
 - learning, learning, forever learning
-
----
 
 ## why follow me
 
