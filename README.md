@@ -5,6 +5,8 @@ Builder and engineer by obsession.
 
 I think at the intersection of **language, software, and creativity**. I build because tools shape who gets access—and too many people are still left out.
 
+> 🥑 También desarrollo y colaboro profesionalmente en español.
+
 ## current deep dives
 
 - 📱 mobile apps, especially consumer-facing products that actually ship  
