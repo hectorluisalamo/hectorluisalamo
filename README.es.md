@@ -1,4 +1,4 @@
-## hey, soy Héctor 👋
+## hola, soy Héctor 👋
 
 Escritor y editor de formación.
 Constructor e ingeniero de inteligencia artificial por vocación.
