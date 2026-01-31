@@ -1,11 +1,11 @@
 ## hey, I’m Hector 👋
 
 Writer and editor by training.  
-Builder and engineer by obsession.
+Builder and AI engineer by obsession.
 
 I think at the intersection of **language, software, and creativity**. I build because tools shape who gets access—and too many people are still left out.
 
-> 🥑 También desarrollo y colaboro profesionalmente en español.
+> 🥑 También desarrollo y colaboro profesionalmente [en español](README.es.md).
 
 ## current deep dives
 
@@ -33,7 +33,7 @@ I believe in the **beauty and boundless potential of humanity**.
 
 I spent years as a managing editor and contributor at small, independent Latino media companies. That work shaped how I think: clarity matters, language matters, and systems always reflect values.
 
-The throughline from writing to engineering is simple:  
+The throughline from writing to programming is simple:  
 **words have always moved people... and now they also move machines**.
 
 My mom is a Honduran immigrant, my dad's Puerto Rican, but I identify most with the city that taught me how culture, grit, and creativity coexist — Chicago.
@@ -52,4 +52,4 @@ My mom is a Honduran immigrant, my dad's Puerto Rican, but I identify most with 
 - notes, tools, and half-finished ideas  
 - projects shaped by curiosity, not hype  
 
-I’m open to collaboration, feedback, and fellowship, because earning scales best when it’s shared.
+I’m open to collaboration, feedback, and fellowship, because knowledge grows best when it’s shared.
