@@ -1,7 +1,7 @@
 ## hey, I’m Hector 👋
 
 Writer and editor by training.  
-Builder and AI engineer by obsession.
+Builder and AI engineer by vocation.
 
 I think at the intersection of **language, software, and creativity**. I build because tools shape who gets access—and too many people are still left out.
 
