@@ -21,7 +21,7 @@ Ahora mismo estoy lanzando una **app móvil de fitness para latinas** que quiere
 - los equipos pequeños ganan porque son **ágiles, curiosos y no le tienen miedo a equivocarse**
 - la IA es peligrosa cuando se usa sin comprensión ni propósito, pero también es poderosa cuando **traduce la visión humana en realidad**
 - la simplicidad escala; el sobre-ingenierizar no
-- la tecnología no es para “cierta personas", sino para las que tienen curiosidad y el impulso
+- la tecnología no es para "ciertas personas", sino para las que tienen curiosidad y el impulso
 
 Rechazo el "gatekeeping", la complejidad innecesaria, y la idea de que la tecnología tiene que ser fría.
 
