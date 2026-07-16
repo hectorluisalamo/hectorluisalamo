@@ -9,14 +9,15 @@ Después aprendí a programar por mi cuenta a través del CS50 de Harvard, obtuv
 
 ## lo que estoy construyendo
 
+- 🏭 **IA empresarial, en producción** — Lidero el despliegue de IA gobernada en todos los departamentos de un fabricante internacional de equipos originales (OEM) — empezando por finanzas y copilotos ejecutivos, y de ahí hacia afuera. Mi tesis de gobernanza a escala real: autonomía con registros de auditoría y una rendición de cuentas que la alta dirección puede aprobar.
 - 🛡️ **[Palamo Studio](https://www.palamostudio.com)** — una consultoría de gobernanza y despliegue de IA que cofundé con mi esposa Rocio. Ayudamos a empresas medianas a adoptar IA de forma responsable, con la medición y rendición de cuentas que exigen las juntas directivas y los CFOs.
 - 📰 **[The Crash Log](https://crashlog.ai)** — un newsletter diario bilingüe sobre la IA y la tecnología descarrilada. Producido por un sistema de IA agéntico gobernado que yo diseñé y editado por mí. Es lo más honesto en los medios hoy en día o lo más desolador. Creo que es ambas cosas.
-- ⚙️ **Nico 2.0** — un sistema agéntico de producción que opera 24/7 en un servidor dedicado. 13 tareas programadas diarias, su propio sistema de memoria, un marco de calibración de voz y barreras de gobernanza explícitas. La IA detrás de The Crash Log.
+- ⚙️ **Nico 2.0** — un sistema agéntico de producción que opera 24/7 en un servidor dedicado, ejecutando un par de docenas de tareas programadas y gobernadas al día. Pero esa no es la parte interesante... Nico orquesta el trabajo real en equipos de subagentes —planificar → construir → revisión adversarial independiente— iterando cada tarea hasta que pasa y es verificada por un subagente de otra familia de modelos y con contexto limpio antes de publicarse (el que construye nunca califica su propio trabajo). Nico no puede gastar dinero, enviar mensajes ni reescribir sus propias reglas sin mi visto bueno fuera de banda — impuesto en la capa de herramientas, no meramente un prompt al que se le pueda convencer. Nico incluso se autorrepara su propio programador de tareas, los respaldos y los escaneos de seguridad. Toda mi tesis de gobernanza, corriendo sobre mi agente personal — la misma IA detrás de The Crash Log.
 - 📱 **ChicaFit** — una app de fitness multiplataforma para mujeres hispanohablantes, construida con React Native y Expo.
 
 ## lo que me tiene enganchado
 
-- 🧠 flujos de trabajo agénticos gobernados — pipelines multifase con registros de auditoría, reglas de tres intentos y autonomía acotada
+- 🧠 flujos de trabajo agénticos gobernados — pipelines multifase con registros de auditoría, reglas de tres intentos y autonomía acotada (mira [ap-invoice-processor](https://github.com/hectorluisalamo/ap-invoice-processor) — un agente autónomo de procesamiento de facturas con control humano en el circuito, en abierto)
 - 🗣️ sistemas de IA bilingües (EN/ES) — no solo traducción, sino NLP culturalmente fundamentado
 - 📊 marcos de gobernanza de IA — cumplimiento normativo, riesgo de proveedores, rendición de cuentas multi-modelo
 - 🛠️ Claude Code, equipos de agentes e infraestructura de IA en producción

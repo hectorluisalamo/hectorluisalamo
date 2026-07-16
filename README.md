@@ -11,14 +11,15 @@ Then I taught myself to code through Harvard's CS50, earned certificates in data
 
 ## what I'm building
 
+- 🏭 **Enterprise AI, in production** — I'm leading the deployment of governed AI across every department of an international OEM manufacturer — finance and executive copilots first, then outward. My governance thesis at real scale: autonomy with audit trails, and accountability the C-suite can sign off on.
 - 🛡️ **[Palamo Studio](https://www.palamostudio.com)** — an AI governance and deployment consultancy I co-founded with my wife Rocio. We help mid-market companies adopt AI responsibly, with the measurement and accountability that boards and CFOs demand.
 - 📰 **[The Crash Log](https://crashlog.ai)** — a daily bilingual newsletter about AI and tech gone off the rails. Produced by a governed agentic AI system I designed and edited by me. It's either the most honest thing in media right now or the most bleak. I think it's both.
-- ⚙️ **Nico 2.0** — a production agentic system running 24/7 on a dedicated server. 13 scheduled tasks daily, its own memory system, voice calibration framework, and explicit governance guardrails. The AI behind The Crash Log.
+- ⚙️ **Nico 2.0** — a 24/7 production agentic system on a dedicated server, running a couple dozen governed scheduled tasks a day. But that isn't the cool part... Nico orchestrates real work across subagent teams — plan → build → independent adversarial review — looping each task until it passes and is verified by a fresh-context, cross-model subagent before it ships (the builder never grades its own work). Nico can't spend money, send messages, or rewrite his own rules without my out-of-band sign-off — enforced at the tool layer, not merely a prompt he could be talked out of. Nico even self-heals his own scheduler, backups, and security scans. My entire governance thesis, running on my personal agent — the same AI behind The Crash Log.
 - 📱 **ChicaFit** — a cross-platform fitness app for Spanish-speaking women, built with React Native and Expo.
 
 ## current deep dives
 
-- 🧠 governed agentic workflows — multi-phase pipelines with audit trails, three-strike failure rules, and bounded autonomy
+- 🧠 governed agentic workflows — multi-phase pipelines with audit trails, three-strike failure rules, and bounded autonomy (see [ap-invoice-processor](https://github.com/hectorluisalamo/ap-invoice-processor) — an autonomous invoice agent with a human-in-the-loop safety gate, in the open)
 - 🗣️ bilingual AI systems (EN/ES) — not just translation, but culturally grounded NLP
 - 📊 AI governance frameworks — compliance, vendor risk, multi-model accountability
 - 🛠️ Claude Code, agent teams, and production AI infrastructure
